@@ -23,6 +23,4 @@ export default vianta
 ```   
 #
 
-<div align="center" >
- <a href="https://discord.com/users/1066325281943584778" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1066325281943584778?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
 
