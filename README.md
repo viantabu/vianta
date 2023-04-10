@@ -12,7 +12,7 @@
 class vianta {
     constructor(options) {
         this.name = "Bora",
-        this.age = "1",
+        this.age = "19",
         this.sex = "he / him",
         this.length = "1,83",
         this.job = "student",
